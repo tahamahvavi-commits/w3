@@ -1,12 +1,5 @@
-<html><head><meta charset="UTF-8" class="current-jKQeCJBPNPQlQOk"/><link rel="stylesheet" href="styles.css" class="container-laSZgjsQh"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="inner-rXjlteISZHNeai"/><meta name="referrer" content="no-referrer" class="avatar-bAharFXGWvqZjh"/><style> @import url('https://fonts.googleapis.com/css2?family=Cuprum:ital,wght@0,400..700;1,400..700&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #6e3346; border-radius: 14px; } *::-webkit-scrollbar-thumb { background-color: #e3afa0; border-radius: 14px; border: 2px solid #6e3346; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>mindoro.shop</title><!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YTP08B4056"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YTP08B4056');
-</script>
+<html><head><meta charset="UTF-8" class="current-jKQeCJBPNPQlQOk"/><link rel="stylesheet" href="styles.css" class="container-laSZgjsQh"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="inner-rXjlteISZHNeai"/><meta name="referrer" content="no-referrer" class="avatar-bAharFXGWvqZjh"/><style> @import url('https://fonts.googleapis.com/css2?family=Cuprum:ital,wght@0,400..700;1,400..700&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #6e3346; border-radius: 14px; } *::-webkit-scrollbar-thumb { background-color: #e3afa0; border-radius: 14px; border: 2px solid #6e3346; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>mindoro.shop</title>
+ 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
 <script>
